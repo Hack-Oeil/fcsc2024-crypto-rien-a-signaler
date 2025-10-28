@@ -4,7 +4,7 @@ J’ai chiffré le flag avec le cryptosystème à clé publique bien connu [RSA]
 
 
 
-Auteurs : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Rien à signaler](https://hackropole.fr/fr/challenges/crypto/fcsc2024-crypto-rien-a-signaler/)
 
